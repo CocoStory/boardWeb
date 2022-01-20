@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+header{
+	height:15vh;
+	background-color:lightgray;
+}
+section{
+	height:70vh;
+	
+}
+footer{
+	height:13vh;
+	background-color:pink;
+	color:white;
+	text-align:center;
+}
+
+.loginArea{
+	position:absolute;
+	right:10px;
+	top:10px;
+}
